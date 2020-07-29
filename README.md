@@ -44,14 +44,14 @@ A list of free and open forensics analysis tools and other resources
 ## Tools
 
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-- [Eric Zimmerman's Tools] (https://ericzimmerman.github.io/#!index.md)
+- [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
 
 ### Distributions
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
 - [CAINE](https://www.caine-live.net/)
 - [GRML-Forensic](https://grml-forensic.org/)
-- [SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
+- :star:[SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
 - [Santoku Linux](https://santoku-linux.com/) - Santoku is dedicated to mobile forensics, analysis, and security, and packaged in an easy to use, Open Source platform.
 - [Sumuri Paladin](https://sumuri.com/software/paladin/) - Linux distribution that simplifies various forensics tasks in a forensically sound manner via the PALADIN Toolbox
 - [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution for forensic analysis
@@ -59,7 +59,7 @@ A list of free and open forensics analysis tools and other resources
 
 ### Frameworks
 
-- :start:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
+- :star:[Autopsy](http://www.sleuthkit.org/autopsy/) - SleuthKit GUI
 - [dff](https://github.com/arxsys/dff) - Forensic framework
 - [dexter](https://github.com/coinbase/dexter) - Dexter is a forensics acquisition framework designed to be extensible and secure
 - [IntelMQ](https://github.com/certtools/intelmq) - IntelMQ collects and processes security feeds
@@ -115,7 +115,7 @@ A list of free and open forensics analysis tools and other resources
 - [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - An easy and convenient way of accessing physical memory as files a virtual file system.
 - [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
-- [volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
+- :star:[volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
 
 ### Network Forensics
