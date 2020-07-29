@@ -226,7 +226,7 @@ A list of free and open forensics analysis tools and other resources
 
 ### Challenges
 
-- [SANS Forensics Challenges] (https://digital-forensics.sans.org/community/challenges)
+- [SANS Forensics Challenges](https://digital-forensics.sans.org/community/challenges)
 
 ## Resources
 
@@ -259,7 +259,7 @@ A list of free and open forensics analysis tools and other resources
 - [@blackbagtech](https://twitter.com/blackbagtech)
 - [@carrier4n6](https://twitter.com/carrier4n6) - Brian Carrier, author of Autopsy and the Sleuth Kit
 - [@CindyMurph](https://twitter.com/CindyMurph) - Detective & Digital Forensic Examiner
-- [@EricRZimmerman] (https://twitter.com/EricRZimmerman) - Certified SANS Instructor
+- [@EricRZimmerman](https://twitter.com/EricRZimmerman) - Certified SANS Instructor
 - [@forensikblog](https://twitter.com/forensikblog) - Computer forensic geek
 - [@HECFBlog](https://twitter.com/HECFBlog) - SANS Certified Instructor
 - [@Hexacorn](https://twitter.com/Hexacorn) - DFIR+Malware
@@ -273,24 +273,24 @@ A list of free and open forensics analysis tools and other resources
 
 ### Blogs
 
-- [SANS Forensics Blog] (https://www.sans.org/blog/?focus-area=digital-forensics)
+- [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
 - [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
 
 ### Other
 
 - [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
-- [HFS+ Resources] (https://github.com/mac4n6/HFSPlus_Resources)
-- [mac4n6 Presentations] (https://github.com/mac4n6/Presentations) - Presentation Archives for OS X and iOS Related Research
-- [SANS Forensics CheatSheets] (https://digital-forensics.sans.org/community/cheat-sheets) - Different CheatSheets from SANS
-- [SANS Digital Forensics Posters] (https://digital-forensics.sans.org/community/posters) - Digital Forensics Posters from SANS
-- [SANS WhitePapers] (https://digital-forensics.sans.org/community/whitepapers) - White Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold
+- [HFS+ Resources](https://github.com/mac4n6/HFSPlus_Resources)
+- [mac4n6 Presentations](https://github.com/mac4n6/Presentations) - Presentation Archives for OS X and iOS Related Research
+- [SANS Forensics CheatSheets](https://digital-forensics.sans.org/community/cheat-sheets) - Different CheatSheets from SANS
+- [SANS Digital Forensics Posters](https://digital-forensics.sans.org/community/posters) - Digital Forensics Posters from SANS
+- [SANS WhitePapers](https://digital-forensics.sans.org/community/whitepapers) - White Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold
 
 ## Related Awesome Lists
 
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
-- [Awesome Forensics] (https://github.com/cugu/awesome-forensics)
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [CTFs](https://github.com/apsdehal/awesome-ctf)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
