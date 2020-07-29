@@ -145,13 +145,16 @@ A list of free and open forensics analysis tools and other resources
 
 ### OS X Forensics
 
+- [APFS Fuse](https://github.com/sgan81/apfs-fuse) - is a read-only FUSE driver for the new Apple File System
 - [APOLLO](https://github.com/mac4n6/APOLLO)
 - [Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - is a Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device
+- [MAC OSX Artifacts](https://docs.google.com/spreadsheets/d/1X2Hu0NE2ptdRj023OVWIGp5dqZOw-CfxHLOW_GNGpX8/edit#gid=1317205466) - locations artifacts by mac4n6 group
 - [mac_apt (macOS Artifact Parsing Tool)](https://github.com/ydkhatri/mac_apt) - Extracts forensic artifacts from disk images or live machines
 - [MacLocationsScraper](https://github.com/mac4n6/Mac-Locations-Scraper) - Dump the contents of the location database files on iOS and macOS.
 - [macMRUParser](https://github.com/mac4n6/macMRU-Parser) - Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format.
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
+
 
 ### Mobile Forensics
 
