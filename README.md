@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/mesquidar/ForensicsTools/master/FORENSICS%20TOOLS.png)
 
 # ForensicsTools
-A list of free and open forensics analysis tools and other resources
+A list of free and open forensics analysis tools and other resources. 
 
 - [Awesome Forensics](#awesome-forensics)
 - [Collections](#collections)
@@ -306,3 +306,5 @@ A list of free and open forensics analysis tools and other resources
 - [Security](https://github.com/sbilly/awesome-security)
 - [Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
 - [YARA](https://github.com/InQuest/awesome-yara)
+
+Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
