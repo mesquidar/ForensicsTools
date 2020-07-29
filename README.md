@@ -122,7 +122,7 @@ A list of free and open forensics analysis tools and other resources
 
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer)
 - [Xplico](https://www.xplico.org/)
-- [WireShark](https://www.wireshark.org/)
+- :star:[WireShark](https://www.wireshark.org/)
 
 ### Windows Artifacts
 
