@@ -19,7 +19,7 @@ A list of free and open forensics analysis tools and other resources.
   - [OS X Forensics](#os-x-forensics)
   - [Mobile Forensics](#mobile-forensics)
   - [Docker Forensics](#docker-forensics)
-  - [Internet Artifacts](#internet-artifacts)
+  - [Browser Artifacts](#browser-artifacts)
   - [Timeline Analysis](#timeline-analysis)
   - [Disk image handling](#disk-image-handling)
   - [Decryption](#decryption)
@@ -173,7 +173,7 @@ A list of free and open forensics analysis tools and other resources.
 - [dof (Docker Forensics Toolkit)](https://github.com/docker-forensics-toolkit/toolkit) - Extracts and interprets forensic artifacts from disk images of Docker Host systems
 - [Docker Explorer](https://github.com/google/docker-explorer) Extracts and interprets forensic artifacts from disk images of Docker Host systems
 
-### Internet Artifacts
+### Browser Artifacts
 
 - [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) - by Nirsoft is a small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache
 - [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
