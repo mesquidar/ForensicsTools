@@ -2,6 +2,7 @@
 
 # Forensics Tools
 A list of free and open source forensics analysis tools and other resources. 
+Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 
 - [Forensics Tools](#forensics-tools)
 - [Collections](#collections)
@@ -307,4 +308,3 @@ A list of free and open source forensics analysis tools and other resources.
 - [Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
 - [YARA](https://github.com/InQuest/awesome-yara)
 
-Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
