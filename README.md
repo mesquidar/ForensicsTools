@@ -54,6 +54,7 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
 - [CAINE](https://www.caine-live.net/)
 - [GRML-Forensic](https://grml-forensic.org/)
+- [Remnux](https://remnux.org/) - Distro for reverse-engineering and analyzing malicious software
 - :star:[SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
 - [Santoku Linux](https://santoku-linux.com/) - Santoku is dedicated to mobile forensics, analysis, and security, and packaged in an easy to use, Open Source platform.
 - [Sumuri Paladin](https://sumuri.com/software/paladin/) - Linux distribution that simplifies various forensics tasks in a forensically sound manner via the PALADIN Toolbox
