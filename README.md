@@ -93,15 +93,16 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 - [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) 
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/) - is a free imaging tool designed to capture the physical memory 
-- [RAM Capturer](https://belkasoft.com/ram-capturer) - by Belkasoft is a free tool to dump the data from a computer’s volatile memory. It’s compatible with Windows OS.
+- :star:[RAM Capturer](https://belkasoft.com/ram-capturer) - by Belkasoft is a free tool to dump the data from a computer’s volatile memory. It’s compatible with Windows OS.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 
 ### Imageing
 
+- :star:[BelkaImager](https://belkasoft.com/es/bat) - by Belkasoft  allows you to create images of hard and removable disks, Android and iOS devices and download data from the cloud.
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
 - [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) - Free imageing tool for windows
-- [Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
+- :star:[Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
 
 ### Carving
 
