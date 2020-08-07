@@ -225,6 +225,7 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 ## Learn forensics
 
 - [Forensic challenges](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challenges
+- [OpenLearn](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?active-tab=description-tab) - Digital forensic course
 - [Training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational) - Online training material by European Union Agency for Network and Information Security for different topics (e.g. [Digital forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics), [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics))
 
 ### CTFs
@@ -234,14 +235,30 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 
 ### Challenges
 
+- [PivotProject](https://pivotproject.org/challenges/digital-forensics-challenge)
 - [SANS Forensics Challenges](https://digital-forensics.sans.org/community/challenges)
 
 ## Resources
 
 ### Webs
 
+- [ForensicsFocus](https://www.forensicfocus.com/)
 - [InsecInstitute Resources](https://resources.infosecinstitute.com/)
 - [SANS Digital Forensics](https://digital-forensics.sans.org/)
+
+
+### Blogs
+
+- [Cyberforensics](https://cyberforensics.com/blog/)
+- [Cyberforensicator](https://cyberforensicator.com/)
+- [DigitalForensicsMagazine](https://digitalforensicsmagazine.com/blogs/)
+- [FlashbackData](https://www.flashbackdata.com/blog/)
+- [Netresec](https://www.netresec.com/index.ashx?page=Blog)
+- [roDigitalForensics](https://prodigital4n6.com/blog/)
+- [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
+- [SecurityAffairs](https://securityaffairs.co/wordpress/) - blog by Pierluigi Paganini
+- [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
+- [Zena Forensics](https://blog.digital-forensics.it/)
 
 ### Books
 
@@ -279,14 +296,11 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 - [@williballenthin](https://twitter.com/williballenthin)
 - [@XWaysGuide](https://twitter.com/XWaysGuide)
 
-### Blogs
-
-- [SANS Forensics Blog](https://www.sans.org/blog/?focus-area=digital-forensics)
-- [thisweekin4n6.wordpress.com](thisweekin4n6.wordpress.com) - Weekly updates for forensics
 
 ### Other
 
 - [/r/computerforensics/](https://www.reddit.com/r/computerforensics/) - Subreddit for computer forensics
+- [ForensicControl](https://www.forensiccontrol.com/free-software) - 
 - [ForensicPosters](https://github.com/Invoke-IR/ForensicPosters) - Posters of file system structures
 - [HFS+ Resources](https://github.com/mac4n6/HFSPlus_Resources)
 - [mac4n6 Presentations](https://github.com/mac4n6/Presentations) - Presentation Archives for OS X and iOS Related Research
