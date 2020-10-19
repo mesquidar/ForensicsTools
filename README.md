@@ -26,10 +26,11 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
   - [Decryption](#decryption)
   - [Management](#management)
   - [Picture Analysis](#picture-analysis)
+  - [Steganography](#steganography)
   - [Metadata Forensics](#metadata-forensics)
   - [Website Forensics](#website-forensics)
 - [Learn Forensics](#learn-forensics)
-  - [CTFs](#ctfs)
+  - [CTFs](#challenges)
 - [Resources](#resources)
   - [Books](#books)
   - [File System Corpora](#file-system-corpora)
@@ -41,6 +42,7 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 ## Collections
 
 - [DFIR – The definitive compendium project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
+- [DFIR-SQL-Query-Repo](https://github.com/abrignoni/DFIR-SQL-Query-Repo) - Collection of SQL queries templates for digital forensics use by platform and application.
 - [dfir.training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
 - :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
 
@@ -215,9 +217,21 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 - [Ghiro](http://www.getghiro.org/) - is a fully automated tool designed to run forensics analysis over a massive amount of images
 - [sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital photographic image forensic toolset
 
+
+### Steganography
+
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+- [Foremost](https://github.com/korczis/foremost) - is a program to recover files based on their headers and footers
+- [Sonicvisualizer](https://www.sonicvisualiser.org)
+- [Steghide](https://github.com/StefanoDeVuono/steghide) - is a steganography program that hides data in various kinds of image and audio files
+- [Wavsteg](https://github.com/samolds/wavsteg) - is a steganography program that hides data in various kinds of image and audio files
+- [Zsteg](https://github.com/zed-0xff/zsteg) - A steganographic coder for WAV files
+
+
 ### Metadata Forensics
 
 - [ExifTool](https://exiftool.org/) by Phil Harvey
+- [Exiv2](https://www.exiv2.org) - Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
 
 ### Website Forensics
@@ -228,14 +242,13 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 - [OpenLearn](https://www.open.edu/openlearn/science-maths-technology/digital-forensics/content-section-0?active-tab=description-tab) - Digital forensic course
 - [Training material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational) - Online training material by European Union Agency for Network and Information Security for different topics (e.g. [Digital forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#digital_forensics), [Network forensics](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational/#network_forensics))
 
-### CTFs
-
-- [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
-- [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
-
 ### Challenges
 
+- [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
+- [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
+- [MalwareTech Challenges](https://www.malwaretech.com/challenges)
 - [PivotProject](https://pivotproject.org/challenges/digital-forensics-challenge)
+- [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
 - [SANS Forensics Challenges](https://digital-forensics.sans.org/community/challenges)
 
 ## Resources
