@@ -2,7 +2,6 @@
 
 # Forensics Tools
 A list of free and open source forensics analysis tools and other resources. 
-Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 
 - [Forensics Tools](#forensics-tools)
 - [Collections](#collections)
@@ -244,11 +243,21 @@ Based on [AwesomeForensics](https://github.com/cugu/awesome-forensics)
 
 ### Challenges
 
+- [AnalystUnknown Cyber Range](https://aucr.io/auth/login?next=%2F)
+- [Champlain College DFIR CTF](https://champdfa-ccsc-sp20.ctfd.io)
+- [Corelight CTF](https://www3.corelight.com/l/420832/2020-03-31/lcxk2q)
+- [CyberDefenders](https://cyberdefenders.org) 
 - [DefCon CTFs](https://archive.ooo) - archive of DEF CON CTF challenges.
 - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics)
+- [IncidentResponse Challenge](https://incident-response-challenge.com)
+- [MagnetForensics CTF Challenge](https://www.magnetforensics.com/blog/magnet-weekly-ctf-challenge)
 - [MalwareTech Challenges](https://www.malwaretech.com/challenges)
+- [MalwareTraffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
+- [MemLabs](https://github.com/stuxnet999/MemLabs)
+- [NW3C Chanllenges](https://nw3.ctfd.io)
 - [PivotProject](https://pivotproject.org/challenges/digital-forensics-challenge)
 - [Precision Widgets of North Dakota Intrusion](https://betweentwodfirns.blogspot.com/2017/11/dfir-ctf-precision-widgets-of-north.html)
+- [ReverseEngineering Challenges](https://challenges.re)
 - [SANS Forensics Challenges](https://digital-forensics.sans.org/community/challenges)
 
 ## Resources
