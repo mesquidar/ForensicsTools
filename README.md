@@ -135,7 +135,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [Beagle](https://github.com/yampelo/beagle) -  Transform data sources and logs into graphs
 - [CrowdResponse](https://www.crowdstrike.com/resources/community-tools/crowdresponse/) - by CrowdStrike is a static host data collection tool
 - [FRED](https://www.pinguin.lu/fred) - Cross-platform microsoft registry hive editor
-- [LastActivityView](nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
+- [LastActivityView](https://www.nirsoft.net/utils/computer_activity_view.html) - LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. 
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log 
 - [python-evt](https://github.com/williballenthin/python-evt) - Pure Python parser for classic Windows Event Log files (.evt)
 - [RegRipper3.0](https://github.com/keydet89/RegRipper3.0) - RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis.
