@@ -223,8 +223,10 @@ A list of free and open source forensics analysis tools and other resources.
 - [Foremost](https://github.com/korczis/foremost) - is a program to recover files based on their headers and footers
 - [Sonicvisualizer](https://www.sonicvisualiser.org)
 - [Steghide](https://github.com/StefanoDeVuono/steghide) - is a steganography program that hides data in various kinds of image and audio files
+- [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - analyze images in different planes by taking off bits of the image
 - [Wavsteg](https://github.com/samolds/wavsteg) - is a steganography program that hides data in various kinds of image and audio files
 - [Zsteg](https://github.com/zed-0xff/zsteg) - A steganographic coder for WAV files
+- [Audacity](https://www.audacityteam.org) - an easy-to-use, multi-track audio editor and recorder
 
 
 ### Metadata Forensics
@@ -289,6 +291,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [Network Forensics: Tracking Hackers through Cyberspace](https://www.pearson.com/us/higher-education/program/Davidoff-Network-Forensics-Tracking-Hackers-through-Cyberspace/PGM322390.html) - Learn to recognize hackers’ tracks and uncover network-based evidence
 - [The Art of Memory Forensics](https://www.memoryanalysis.net/amf) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
 - [The Practice of Network Security Monitoring](https://nostarch.com/nsm) - Understanding Incident Detection and Response
+- [Cell Phone Investigations: Search Warrants, Cell Sites and Evidence Recovery](https://cryptome.org/2015/11/Cell-Phone-Investigations.pdf) - Cell Phone Investigations is the most comprehensive book written on cell phones, cell sites, and cell related data.
 
 ### File System Corpora
 
