@@ -50,6 +50,10 @@ A list of free and open source forensics analysis tools and other resources.
 - [Forensics tools on Wikipedia](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
 
+## Challenges
+
+- [Blue Team Labs Online](https://blueteamlabs.online/)
+
 ### Distributions
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
