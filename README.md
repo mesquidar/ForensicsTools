@@ -96,9 +96,11 @@ A list of free and open source forensics analysis tools and other resources.
 - [DumpIt](https://www.comae.com/dumpit/) - 
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) 
+- [Fuji](https://github.com/Lazza/Fuji) - Graphical interface for the forensic logical acquisition of Mac computers
 - [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD
 - [Magnet RAM Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/) - is a free imaging tool designed to capture the physical memory 
 - :star:[RAM Capturer](https://belkasoft.com/ram-capturer) - by Belkasoft is a free tool to dump the data from a computer’s volatile memory. It’s compatible with Windows OS.
+- [UFADE](https://github.com/prosch88/UFADE) - Extract files from Apple devices on Windows, Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and "advanced logical backups"
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries
 
 ### Imageing
