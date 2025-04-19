@@ -151,6 +151,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [MFT-Parsers](http://az4n6.blogspot.com/2015/09/whos-your-master-mft-parsers-reviewed.html) - Comparison of MFT-Parsers
 - [MFTExtractor](https://github.com/aarsakian/MFTExtractor) - MFT-Parser
 - [NTFS journal parser](http://strozfriedberg.github.io/ntfs-linker/)
+- [NTFSTool](https://github.com/thewhiteninja/ntfstool) - Complete NTFS forensics tool
 - [NTFS USN Journal parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
