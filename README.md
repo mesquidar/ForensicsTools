@@ -65,6 +65,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [Sumuri Paladin](https://sumuri.com/software/paladin/) - Linux distribution that simplifies various forensics tasks in a forensically sound manner via the PALADIN Toolbox
 - [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution for forensic analysis
 - [WinFE](https://www.winfe.net/home) - Windows Forensics enviroment
+- [Predator OS](http://predator-os.ir/) - Linux distribution for forensic analysis
 
 ### Frameworks
 
@@ -243,6 +244,8 @@ A list of free and open source forensics analysis tools and other resources.
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
 
 ### Website Forensics
+
+- [Freezing Internet Tool](https://github.com/fit-project/fit) - Python 3 application for forensic acquisition of online content, including web pages, emails, and social media.
 
 ## Learn forensics
 
