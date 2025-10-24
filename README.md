@@ -174,6 +174,12 @@ A list of free and open source forensics analysis tools and other resources.
 
 - [Andriller](https://github.com/den4uk/andriller) - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices
 - [ALEAPP](https://github.com/abrignoni/ALEAPP) - An Android Logs Events and Protobuf Parser
+- [iLEAPP](https://github.com/abrignoni/iLEAPP) -
+- [UFADE](https://github.com/prosch88/UFADE) -
+- [libimobiledevice](https://libimobiledevice.org/) - 
+- [DB Browser for SQLite](https://sqlitebrowser.org/)-
+- [iTunes](https://www.apple.com/itunes/)
+- [Autopsy](https://www.autopsy.com/)
 - [iOS Frequent Locations Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper) - Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/
 - [MEAT](https://github.com/jfarley248/MEAT) - Perform different kinds of acquisitions on iOS devices
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
