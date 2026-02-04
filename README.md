@@ -246,6 +246,7 @@ A list of free and open source forensics analysis tools and other resources.
 ### Website Forensics
 
 - [Freezing Internet Tool](https://github.com/fit-project/fit) - Python 3 application for forensic acquisition of online content, including web pages, emails, and social media.
+- [ScanMalware](https://scanmalware.com) - Scan websites for malicious behaviours and fingerprint JavaScripts.
 
 ## Learn forensics
 
