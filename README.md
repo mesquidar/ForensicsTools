@@ -354,6 +354,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [Incident-Response](https://github.com/meirwah/awesome-incident-response)
 - [Infosec](https://github.com/onlurking/awesome-infosec)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [OSINT](https://github.com/jivoi/awesome-osint)
 - [Pentesting](https://github.com/enaqx/awesome-pentest)
 - [Security](https://github.com/sbilly/awesome-security)
 - [Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
