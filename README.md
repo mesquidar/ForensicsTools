@@ -127,6 +127,7 @@ A list of free and open source forensics analysis tools and other resources.
   developed in .NET supports all Windows x64, includes code integrity and write support
 - [KeeFarce](https://github.com/denandz/KeeFarce) - Extract KeePass passwords from memory
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - An easy and convenient way of accessing physical memory as files a virtual file system.
+- [MemPrcFs Analyzer](https://github.com/LETHAL-FORENSICS/MemProcFS-Analyzer) - PowerShell script utilized to simplify the usage of MemProcFS and to optimize your memory analysis workflow.
 - [Rekall](https://github.com/google/rekall) - Memory Forensic Framework
 - :star:[volatility](https://github.com/volatilityfoundation/volatility) - The memory forensic framework
 - [VolUtility](https://github.com/kevthehermit/VolUtility) - Web App for Volatility framework
@@ -157,6 +158,9 @@ A list of free and open source forensics analysis tools and other resources.
 - [RecuperaBit](https://github.com/Lazza/RecuperaBit) - Reconstruct and recover NTFS data
 - [python-ntfs](https://github.com/williballenthin/python-ntfs) - NTFS analysis
 
+### Linux Forensics
+-[FJTA - Forensic Journal Timeline Analyzer](https://github.com/mnrkbys/fjta) -  Tool that analyzes Linux filesystem (ext4, XFS) journals (not systemd-journald logs), generates timelines, and detects suspicious activities
+
 ### OS X Forensics
 
 - [APFS Fuse](https://github.com/sgan81/apfs-fuse) - is a read-only FUSE driver for the new Apple File System
@@ -166,6 +170,8 @@ A list of free and open source forensics analysis tools and other resources.
 - [mac_apt (macOS Artifact Parsing Tool)](https://github.com/ydkhatri/mac_apt) - Extracts forensic artifacts from disk images or live machines
 - [MacLocationsScraper](https://github.com/mac4n6/Mac-Locations-Scraper) - Dump the contents of the location database files on iOS and macOS.
 - [macMRUParser](https://github.com/mac4n6/macMRU-Parser) - Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format.
+- [MacOs Analyzer Suite](https://github.com/LETHAL-FORENSICS/MacOS-Analyzer-Suite) - A collection of PowerShell scripts for analyzing macOS Forensic Artifacts
+- [MacOs Collector](https://github.com/LETHAL-FORENSICS/macos-collector) - Shell script utilized to collect macOS Forensic Artifacts from a compromised macOS endpoint
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor)
 - [OSX Collect](https://github.com/Yelp/osxcollector)
 
