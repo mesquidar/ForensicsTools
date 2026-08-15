@@ -250,6 +250,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - [Exiv2](https://www.exiv2.org) - Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
+- [MetaClean](https://github.com/Moresyl/metaclean) - Cross-platform desktop app that locally inspects and removes metadata from images, PDFs, Office documents, and text files.
 
 ### Website Forensics
 
