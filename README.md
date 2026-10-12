@@ -58,6 +58,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 - [bitscout](https://github.com/vitaly-kamluk/bitscout) - LiveCD/LiveUSB for remote forensic acquisition and analysis
 - [CAINE](https://www.caine-live.net/)
+- [dfnix](https://github.com/tylerstyle/dfnix) - Bootable forensic NixOS live environment featuring declarative hardware write-blocking by default, forensic storage mounters, and network triage tooling.
 - [GRML-Forensic](https://grml-forensic.org/)
 - [Remnux](https://remnux.org/) - Distro for reverse-engineering and analyzing malicious software
 - :star:[SANS Investigative Forensics Toolkit (sift)](https://github.com/teamdfir/sift) - Linux distribution for forensic analysis
@@ -109,6 +110,7 @@ A list of free and open source forensics analysis tools and other resources.
 - :star:[BelkaImager](https://belkasoft.com/es/bat) - by Belkasoft  allows you to create images of hard and removable disks, Android and iOS devices and download data from the cloud.
 - [dc3dd](https://sourceforge.net/projects/dc3dd/) - Improved version of dd
 - [dcfldd](http://dcfldd.sourceforge.net) - Different improved version of dd (this version has some bugs!, another version is on github [adulau/dcfldd](https://github.com/adulau/dcfldd))
+- [dfdisk](https://github.com/tylerstyle/dfdisk) - Modern forensic disk imaging and damaged media rescue TUI/CLI supporting E01 (Expert Witness Format) and RAW with on-the-fly multi-hash verification (MD5/SHA1/SHA256) and hardware write-block guardrails.
 - [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) - Free imageing tool for windows
 - :star:[Guymager](https://guymager.sourceforge.io/) - Open source version for disk imageing on linux systems
 
