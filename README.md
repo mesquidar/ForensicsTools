@@ -95,7 +95,8 @@ A list of free and open source forensics analysis tools and other resources.
 - [ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor) - Extract common Windows artifacts from source images and VSCs
 - [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux
 - [DFIR ORC](https://dfir-orc.github.io/) - Forensics artefact collection tool for systems running Microsoft Windows
-- [DumpIt](https://www.comae.com/dumpit/) - 
+- [Magnet DumpIt for Windows](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/)
+- [Magnet DumpIt for Linux](https://github.com/MagnetForensics/dumpit-linux)
 - [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - Collect artifacts on windows
 - [FireEye Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) 
 - [Fuji](https://github.com/Lazza/Fuji) - Graphical interface for the forensic logical acquisition of Mac computers
