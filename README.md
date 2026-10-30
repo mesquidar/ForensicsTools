@@ -197,7 +197,6 @@ A list of free and open source forensics analysis tools and other resources.
 
 - [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) - by Nirsoft is a small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache
 - [chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper) - Dump all local stored infromation collected by Chrome
-- [Dumpzilla](http://www.dumpzilla.org/) - extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers
 - [hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 - [unfurl](https://github.com/obsidianforensics/unfurl) - Extract and visualize data from URLs
 - [mozdmp](https://github.com/asaix/mozdmp) - Offline profile decryption tool for Mozilla Firefox. Supports multi-core CPU-based cracking of the master password and the latest Firefox hash formats, including those not yet supported by Hashcat and JTR.
