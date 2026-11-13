@@ -27,6 +27,7 @@ A list of free and open source forensics analysis tools and other resources.
   - [Picture Analysis](#picture-analysis)
   - [Steganography](#steganography)
   - [Metadata Forensics](#metadata-forensics)
+  - [Document Analysis](#document-analysis)
   - [Website Forensics](#website-forensics)
 - [Learn Forensics](#learn-forensics)
   - [CTFs](#challenges)
@@ -252,6 +253,12 @@ A list of free and open source forensics analysis tools and other resources.
 - [ExifTool](https://exiftool.org/) by Phil Harvey
 - [Exiv2](https://www.exiv2.org) - Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata
 - [FOCA](https://github.com/ElevenPaths/FOCA) - FOCA is a tool used mainly to find metadata and hidden information in the documents
+
+### Document Analysis
+
+- [oletools](https://github.com/decalage2/oletools) - Python tools to analyze Microsoft OLE2 files and Office documents, mainly for malware analysis and incident response.
+- [oledump](https://blog.didierstevens.com/programs/oledump-py/) - Program to analyze OLE files (Compound File Binary Format), including the streams and VBA macros of Office documents.
+- [MaldocTrace](https://github.com/debugactiveprocess/MaldocTrace) - Static analyzer and safe VBA emulator for malicious Office documents that reports deobfuscated commands, dropped files, embedded objects and IOCs without running Office.
 
 ### Website Forensics
 
