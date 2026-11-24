@@ -44,6 +44,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [DFIR-SQL-Query-Repo](https://github.com/abrignoni/DFIR-SQL-Query-Repo) - Collection of SQL queries templates for digital forensics use by platform and application.
 - [dfir.training](https://www.dfir.training/) - Database of forensic resources focused on events, tools and more
 - :star: [ForensicArtifacts.com Artifact Repository](https://github.com/ForensicArtifacts/artifacts) - Machine-readable knowledge base of forensic artifacts
+- [Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) - Public catalog of observed information-stealer log formats with representative scrubbed samples, recognition anchors, family context, ATT&CK mappings, and a local matcher for exported text logs.
 
 ## Tools
 
