@@ -137,6 +137,7 @@ A list of free and open source forensics analysis tools and other resources.
 
 ### Network Forensics
 
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit)
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer)
 - [Xplico](https://www.xplico.org/)
 - :star:[WireShark](https://www.wireshark.org/)
